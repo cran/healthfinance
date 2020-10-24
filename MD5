@@ -1,0 +1,13 @@
+e2e1039f9a8ab7ec6d8387e1d3338f08 *DESCRIPTION
+4bf5fbc258c6da25913c466f0fea58a7 *NAMESPACE
+193847e37c745f8239e83a72749a8dac *R/healthfinance.R
+7d0b6c50393230b8d514dfb066cc9cc8 *R/runApp.R
+0801640266dfcd0cfdfd666c8c20e251 *R/utility.R
+d15e8a690726fabddb10e7c5b20de443 *inst/hfin/global.R
+26a03c1ecad8f1df094b137d980df876 *inst/hfin/server.R
+b80fe021661300fb87c8719454254929 *inst/hfin/ui.R
+7f13da16e9e3f273b75ba1ee65315ad4 *man/calc_rev.Rd
+6498b4e7565967151288c4d13f1eb6c5 *man/healthfinance.Rd
+00f9266ce65cf891470c3585fb1ae933 *man/hfin.Rd
+415b7fd6264d15055c73d53736c83521 *tests/testthat.R
+95fdaa0bbf918a3aa48369844440510c *tests/testthat/test-basic_func.R
